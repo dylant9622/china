@@ -1,4 +1,2 @@
 env/
-..gitignore.un~
-*.
-!.gitignore
+./.gitignore.un~
